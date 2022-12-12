@@ -8,10 +8,15 @@
   title: 'Collaboration'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
 
+- image: 'img/feature/i2.png'
+  title: 'Threat Intelligence'
+  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+
 - image: 'img/feature/i3.png'
-  title: 'Full of features'
+  title: 'Threat Intelligence'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 - image: 'img/feature/i4.png'
-  title: 'Global Framework'
+  title: 'Automation'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
