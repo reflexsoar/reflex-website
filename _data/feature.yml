@@ -4,14 +4,26 @@
 ####################################
 ######  feature Section   ######
 ####################################
-- image: 'img/feature/i1.png'
-  title: 'Collaboration'
+- image: 'img/feature/i4.png'
+  title: 'Event Rules'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
 
-- image: 'img/feature/i3.png'
-  title: 'Full of features'
+- image: 'img/feature/f4.png'
+  title: 'Case Management'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
-- image: 'img/feature/i4.png'
-  title: 'Global Framework'
+- image: 'img/feature/i2.png'
+  title: 'Intelligence Lists'
+  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+- image: 'img/feature/f3.png'
+  title: 'Reflex Query Language'
+  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+- image: 'img/feature/i3.png'
+  title: 'Agent Based'
+  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+
+- image: 'img/feature/i1.png'
+  title: 'Role Based Access'
   description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
