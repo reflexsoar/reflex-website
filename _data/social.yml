@@ -2,5 +2,5 @@
 ######    Social Section      ######
 ####################################
 title: 'Quickstart'
-description: '<pre><code>Test</code></pre>'
+description: '<pre><code>sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/reflexsoar/reflex-docs/main/quickstart/install.sh)"</code></pre>'
 image: 'img/social-img.png'
