@@ -87,14 +87,3 @@ product_slider:
 # hero-section-blog
 
 blog_slider:
-  - image: 'img/hero/hero-blog.jpg'
-    author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
-    category: 'Technical'
-
-  - image: 'img/hero/hero-blog.jpg'
-    author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
-    category: 'Art &amp; Fantacy'
-
-
