@@ -6,24 +6,24 @@
 ####################################
 - image: 'img/feature/i4.png'
   title: 'Event Rules'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even  management.'
+  description: 'Event Rules remove the analyst from the equation by taking repeat actions and performing them on the analysts behalf.'
 
 - image: 'img/feature/f4.png'
   title: 'Case Management'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+  description: 'Full case management functionality to track your security investigations from start to finish.'
 
 - image: 'img/feature/i2.png'
   title: 'Intelligence Lists'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+  description: 'Apply threat intelligence, open-source intelligence or asset intelligence to incoming events.'
 
 - image: 'img/feature/f3.png'
   title: 'Reflex Query Language'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+  description: 'The RQL language provides a robust query syntax to allow analysts to filter and act on events.'
 
 - image: 'img/feature/i3.png'
   title: 'Agent Based'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+  description: 'Grab your data, no matter where it lives using an Agent-based approach.'
 
 - image: 'img/feature/i1.png'
   title: 'Role Based Access'
-  description: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
+  description: 'Full Role Based Access Controls to delegate adminstrative and analytic tasks to team members.'
