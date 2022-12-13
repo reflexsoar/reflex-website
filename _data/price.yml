@@ -45,7 +45,8 @@ plan_business_price: '<span>$25,000</span>/year'
 plan_business_description: '<li>5 Named Users</li>
                           <li>5 Custom Case Templates</li>
                           <li>100 Custom Event Rules</li>
-                          <li>5 Custom Intel Lists and Premium Lists</li>
+                          <li>5 Custom Intel Lists</li>
+                          <li>Premium Intel Lists</li>
                           <li>25GB Threat Intel Storage</li>
                           <li>8x5 Support</li>
                           <li>Active Monitoring</li>'
