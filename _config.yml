@@ -144,7 +144,7 @@ collections:
 defaults:
   # _pages 
   - scope:
-      path: "" # we can not defile path /blog/index.html for pagination
+      path: "reflex-website" # we can not defile path /blog/index.html for pagination
       type: pages
     values:
       layout: page
