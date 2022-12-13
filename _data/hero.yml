@@ -44,9 +44,9 @@ sass_slider:
   - image: 'img/carusel/s3.jpg'
 
 # product [ only one image ]
-product_name: 'ReflexSOAR'
-product_text: 'The open-source security orchestration and automation platform that makes your Security Operations Center that much better.'
-product_image: 'img/hero/hero-img.png'
+product_name: 'The most Creative <br> Theme ever for Business'
+product_text: 'The first is a non technical method which requires the use of adware removal software. Download  free adware and spyware removal software and use advanced tools to help prevent getting infected.'
+product_image: 'img/hero/hero-img2.png'
 product_btn_one_link: '#'
 product_btn_one_text:  'Browse free demo'
 
