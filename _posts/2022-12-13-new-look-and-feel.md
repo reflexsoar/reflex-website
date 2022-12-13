@@ -1,9 +1,9 @@
 ---
 title: 2023 A Look Forward
 layout: post
-categories: [Art & Fantacy]
+categories: [News]
 hero: blog_details
-comments: true
+comments: false
 ---
 
 # 2023 A Look Forward
