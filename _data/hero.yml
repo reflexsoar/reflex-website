@@ -1,12 +1,12 @@
 
 # sass [ only one image ]
-sass_name: 'We Made our <br> Software 100% Errorless'
-sass_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
+sass_name: 'Secure Orchestration & Automation'
+sass_text: Work smarter so your Security Operations Team doesn't have to work harder.  Get started with a free and open-source alternative and level up your SOC."
 sass_image: 'img/hero/hero-img.png'
 sass_btn_one_link: '#'
-sass_btn_one_text:  'Start a project'
+sass_btn_one_text:  'Quickstart'
 sass_btn_two_link: '#'
-sass_btn_two_text: ' View Pricing '
+sass_btn_two_text: ' View Support Plans'
 
 # saas_video [ video type mp4 ]
 saas_video_name: 'We Made our <br> Software 100% Errorless' 
@@ -24,8 +24,8 @@ sass_background_image_btn_one_link: '#'
 sass_background_image_btn_one_text:  'Browse free demo'
 
 # sass_fixed_image
-saas_fixed_image_name: 'We Made our <br> Software 100% Errorless' 
-saas_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
+saas_fixed_image_name: 'Secure Orchestration & Automation' 
+saas_fixed_image_text: "Work smarter so your Security Operations Team doesn't have to work harder.  Get started with a free and open-source alternative and level up your SOC."
 saas_fixed_image_image: 'img/mockup.png'
 saas_fixed_image_btn_one_link: '#'
 saas_fixed_image_btn_one_text:  'Browse free demo'
