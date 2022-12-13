@@ -1,7 +1,7 @@
 
 # sass [ only one image ]
-sass_name: 'Secure Orchestration & Automation'
-sass_text: Work smarter so your Security Operations Team doesn't have to work harder.  Get started with a free and open-source alternative and level up your SOC."
+sass_name: 'Security Orchestration & Automation'
+sass_text: Work smarter so your Security Operations Team doesn't have to work harder.  Get started with a free and open-source alternative and level up your SOC.
 sass_image: 'img/hero/hero-img-orange.png'
 sass_btn_one_link: '#'
 sass_btn_one_text:  'Quickstart'
