@@ -5,7 +5,7 @@ sass_text: Work smarter so your Security Operations Team doesn't have to work ha
 sass_image: 'img/hero/hero-img-orange.png'
 sass_btn_one_link: '#'
 sass_btn_one_text:  'Quickstart'
-sass_btn_two_link: '#'
+sass_btn_two_link: '#pricing'
 sass_btn_two_text: ' View Support Plans'
 
 # saas_video [ video type mp4 ]
